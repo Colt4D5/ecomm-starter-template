@@ -35,8 +35,8 @@ A modern, full-stack ecommerce starter template built with SvelteKit 2 and Svelt
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd bread
+git clone https://github.com/Colt4D5/ecomm-starter-template.git
+cd ecomm-starter-template
 
 # Install dependencies
 npm install
